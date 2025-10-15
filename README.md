@@ -21,6 +21,7 @@ To Contribute to the success of a business by utilizing data analysis techniques
 🚚 𝑨𝒗𝒆𝒓𝒂𝒈𝒆 𝑺𝒉𝒊𝒑 𝑻𝒊𝒎𝒆: 𝟰 𝑫𝒂𝒚𝒔
 
 
+
 📈 𝑴𝒂𝒋𝒐𝒓 𝑰𝒏𝒔𝒊𝒈𝒉𝒕𝒔 𝑫𝒆𝒓𝒊𝒗𝒆𝒅:
 
  𝟏. 𝑷𝒂𝒚𝒎𝒆𝒏𝒕 𝑴𝒐𝒅𝒆 𝑨𝒏𝒂𝒍𝒚𝒔𝒊𝒔: Cash on Delivery contributed the highest share — 43% of total sales.
@@ -54,5 +55,5 @@ Developed key performance indicators (KPIs) for 𝑻𝒐𝒕𝒂𝒍 𝑺𝒂�
 
 Screenshots/Demo :
 
-Example : [Dashboard]()()
+Example : [Dashboard](https://github.com/Summitra/Superstore_Sales_Analysis_Powerbi/commit/1cc4428a6a57da219d34cc2b745bbb7eeff21e78)()
 
