@@ -10,11 +10,16 @@ Objectives :
 To Contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
 
+
+
 🔍 𝑲𝒆𝒚 𝑯𝒊𝒈𝒉𝒍𝒊𝒈𝒉𝒕𝒔 & 𝑰𝒏𝒔𝒊𝒈𝒉𝒕𝒔:
 
 📦 𝑻𝒐𝒕𝒂𝒍 𝑶𝒓𝒅𝒆𝒓𝒔: 𝟮𝟮,𝟬𝟬𝟬+
+
 💰 𝑻𝒐𝒕𝒂𝒍 𝑺𝒂𝒍𝒆𝒔: ₹𝟭.𝟲  𝑴𝒊𝒍𝒍𝒊𝒐𝒏
+
 💹 𝑻𝒐𝒕𝒂𝒍 𝑷𝒓𝒐𝒇𝒊𝒕: ₹𝟭𝟳𝟱𝑲
+
 🚚 𝑨𝒗𝒆𝒓𝒂𝒈𝒆 𝑺𝒉𝒊𝒑 𝑻𝒊𝒎𝒆: 𝟰 𝑫𝒂𝒚𝒔
 
 
@@ -41,6 +46,9 @@ To Contribute to the success of a business by utilizing data analysis techniques
 
 
 🗺️ Used Map Visualization to showcase total sales distribution across different states.
+
+
+
 
 
 ✨ 𝑲𝑷𝑰𝒔 𝒂𝒏𝒅 𝑭𝒐𝒓𝒆𝒄𝒂𝒔𝒕𝒊𝒏𝒈:
