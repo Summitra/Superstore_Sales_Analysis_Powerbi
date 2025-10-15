@@ -56,5 +56,6 @@ Developed key performance indicators (KPIs) for 𝑻𝒐𝒕𝒂𝒍 𝑺𝒂�
 Screenshots/Demo :
 
 Example : [Dashboard](https://github.com/Summitra/Superstore_Sales_Analysis_Powerbi/commit/1cc4428a6a57da219d34cc2b745bbb7eeff21e78)
-(https://github.com/Summitra/Superstore_Sales_Analysis_Powerbi/commit/1cc4428a6a57da219d34cc2b745bbb7eeff21e78)
+
+[Forecast](https://github.com/Summitra/Superstore_Sales_Analysis_Powerbi/commit/1cc4428a6a57da219d34cc2b745bbb7eeff21e78)
 
