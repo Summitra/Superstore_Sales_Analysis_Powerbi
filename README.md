@@ -13,12 +13,10 @@ To Contribute to the success of a business by utilizing data analysis techniques
 🔍 𝑲𝒆𝒚 𝑯𝒊𝒈𝒉𝒍𝒊𝒈𝒉𝒕𝒔 & 𝑰𝒏𝒔𝒊𝒈𝒉𝒕𝒔:
 
 📦 𝑻𝒐𝒕𝒂𝒍 𝑶𝒓𝒅𝒆𝒓𝒔: 𝟮𝟮,𝟬𝟬𝟬+
-
 💰 𝑻𝒐𝒕𝒂𝒍 𝑺𝒂𝒍𝒆𝒔: ₹𝟭.𝟲  𝑴𝒊𝒍𝒍𝒊𝒐𝒏
-
 💹 𝑻𝒐𝒕𝒂𝒍 𝑷𝒓𝒐𝒇𝒊𝒕: ₹𝟭𝟳𝟱𝑲
-
 🚚 𝑨𝒗𝒆𝒓𝒂𝒈𝒆 𝑺𝒉𝒊𝒑 𝑻𝒊𝒎𝒆: 𝟰 𝑫𝒂𝒚𝒔
+
 
 
 
@@ -52,6 +50,7 @@ Developed key performance indicators (KPIs) for 𝑻𝒐𝒕𝒂𝒍 𝑺𝒂�
  Performed 𝑺𝒂𝒍𝒆𝒔 𝑭𝒐𝒓𝒆𝒄𝒂𝒔𝒕𝒊𝒏𝒈 𝒇𝒐𝒓 𝒕𝒉𝒆 𝒏𝒆𝒙𝒕 15 𝒅𝒂𝒚𝒔 to project future business growth.
 
 💡 This dashboard provides an end-to-end analytical view of Superstore performance, enabling data-driven business decisions and actionable insights.
+
 
 Screenshots/Demo :
 
